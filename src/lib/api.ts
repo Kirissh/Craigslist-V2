@@ -1,8 +1,8 @@
 import { createClient } from '@supabase/supabase-js';
 
 // Initialize Supabase client (client-side)
-export const supabaseUrl = 'https://mgwnecbvbgsvdjsrjklb.supabase.co';
-export const supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1nd25lY2J2YmdzdmRqc3Jqa2xiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDYyODM3NjgsImV4cCI6MjA2MTg1OTc2OH0.pTcq9skP_X5gmD1StZ9DbV0FjkDdA8lrkrZ1yQ20hyo';
+export const supabaseUrl = 'SUPABASE URL HERE';
+export const supabaseAnonKey = 'ANON KEY HERE';
 export const supabase = createClient(supabaseUrl, supabaseAnonKey);
 
 // API URL - handle both development and production
