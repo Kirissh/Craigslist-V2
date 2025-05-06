@@ -152,6 +152,12 @@ classify/
 - `POST /api/chatbot/messages` - Send message to chatbot
 - `DELETE /api/chatbot/conversations/:conversationId` - Delete conversation
 
+## Images
+![WhatsApp Image 2025-05-05 at 11 22 22_2e5b22c9](https://github.com/user-attachments/assets/0fcf8543-b3fd-4cea-89a6-2990e11deebb)
+<img width="1701" alt="Screenshot 2025-05-05 at 11 20 56 AM" src="https://github.com/user-attachments/assets/76db8564-bba7-4a61-bc99-59f5e39a945c" />
+<img width="1593" alt="Screenshot 2025-05-05 at 11 21 12 AM" src="https://github.com/user-attachments/assets/33983565-111d-4793-ad2d-7d5ac4fbab37" />
+
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
